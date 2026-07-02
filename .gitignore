@@ -1,0 +1,25 @@
+# backups / snapshots / archives
+*.bak
+*.zip
+*.orig
+
+# build / tool artifacts
+*.qpf
+*.qsf
+*.qws
+*.rpt
+*.pof
+*.jdi
+*.sld
+db/
+incremental_db/
+output_files/
+simulation/
+sim/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# NOTE: bitstream/k5_xbox_slrx897.sof IS tracked on purpose (the verified build).
