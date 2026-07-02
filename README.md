@@ -1,7 +1,7 @@
 # SLRX FPGA Accelerator
 
-> 🏆 **2nd place — HackaNuvoTon 2026 hackathon** · Faculty of Engineering (Alexander Kofkin),
-> Bar-Ilan University · sponsored by **Nuvoton**.
+> **2nd place — HackaNuvoTon 2026 hackathon** · Faculty of Engineering,
+> Bar-Ilan University · 
 > Awarded for developing and implementing an integrated digital hardware accelerator on an FPGA SoC for
 > an artificial-intelligence sign-language-recognition system.
 
